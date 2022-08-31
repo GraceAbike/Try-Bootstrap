@@ -1,0 +1,124 @@
+body {
+  display: grid;
+  /* color: white; */
+}
+
+.navlist {
+  width: 40%;
+}
+
+/* .main-section {
+  color: #fff;
+  margin-left: 100px;
+  margin-top: 250px;
+} */
+
+/* .work-section {
+  position: relative;
+  text-align: left;
+  color: white;
+  width: auto;
+} */
+
+/* .section-text {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+} */
+
+/* ul {
+  list-style: none;
+} */
+
+/* h1 {
+  font-size: 72px;
+  color: #f55800;
+} */
+
+/* .main-section h1 {
+  font-size: 72px;
+  color: #f55800;
+} */
+
+/* .section-text h2 {
+  font-size: 32px;
+} */
+
+/* .section-texts p {
+  font-size: 17px;
+} */
+
+/* .social-icons {
+  margin-top: 300px;
+  color: #fff;
+}
+
+.social-icons ul li {
+  margin-top: 24px;
+} */
+
+/* .main-section h2 {
+  font-size: 32px;
+  margin-top: 24px;
+} */
+
+/* .main-section p {
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 24px;
+  color: #f4f5f7;
+} */
+
+/* .about-img {
+  width: 60%;
+} */
+
+/* .About-me {
+  width: 100%;
+} */
+
+/* .recent-work {
+  margin-right: 50px;
+} */
+
+/* .languagelist {
+  margin-top: 100px;
+} */
+
+/* .contact-form p {
+  width: 30%;
+} */
+
+/* .form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-name {
+  margin-top: 20px;
+} */
+
+/* .message {
+  width: 684px;
+  margin-top: 20px;
+} */
+
+/* .submit-btn {
+  margin-top: 20px;
+  width: 125px;
+  height: 60px;
+  background: #f55800;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+} */
+
+/* .btn {
+  margin-top: 20px;
+  width: 125px;
+  height: 60px;
+  background: #f55800;
+  padding: 10px;
+  text-align: center;
+  color: #fff;
+} */
