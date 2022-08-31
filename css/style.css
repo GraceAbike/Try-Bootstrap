@@ -20,11 +20,11 @@ body {
   width: auto;
 }
 
-/* .section-text {
+.section-text {
   position: absolute;
   bottom: 8px;
   left: 16px;
-} */
+}
 
 /* ul {
   list-style: none;
